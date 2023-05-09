@@ -49,3 +49,4 @@ stok, keluar-masuk barang suatu toko atau gudang.
 - tabel `bulan_statis` wajib ada pada aplikasi.
 - tabel `bulan_statis` digunakan untuk monitoring keluar masuk barang per-bulan.
 - nama-nama bulan bisa diatur di halaman 'Manajemen Settings'.
+- reference & thanks to : @rahmathidayat9
